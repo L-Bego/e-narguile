@@ -1,5 +1,5 @@
 # e-Narguile | e-Hookah
-### _Saia da era do carvão_
+### _Narguilé eletrônico_
 
 O e-Narguile / e-Hookah é um projeto de financiamento coletivo para o desenvolvimento e pesquisa de Narguilés eletroeletrônicos e acessórios para Narguilés que sejam eletroeletrônicos.
 
