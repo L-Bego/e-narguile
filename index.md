@@ -12,7 +12,7 @@ O Narguilé (em inglês: _Hookah_ ou _Shisha_) é basicamente um tipo de cachimb
 
 _(DESCRIÇÃO DE COMO FUNCIONA TRADICIONALMENTE UM NARGUILE E DO MÉTODO NOVO PROPOSTO DE SUBSTITUIR O CARVÃO POR UM GERADOR DE CALOR ELÉTRICO)_
 
-### **Principais vantagens:**
+### Principais vantagens:
 
 - Melhor rendimento e comodidade
 - Maior controle sobre a distribuição do calor
