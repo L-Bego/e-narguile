@@ -3,9 +3,11 @@
 
 O e-Narguile é um projeto de financiamento coletivo para o desenvolvimento e pesquisa de Narguilés eletroeletrônicos e acessórios para Narguilés que sejam eletroeletrônicos.
 
-### O conceito
+## O CONCEITO
 
-O Narguilé (em inglês: _Hookah_ ou _Shisha_) é basicamente um tipo de cachimbo de água
+![e-narguile renderização](/images/NARGASWIDE.png)
+
+O Narguilé (em inglês: _Hookah_ ou _Shisha_) é basicamente um tipo de cachimbo de água utilizado para fumar tabacos aromatizados.
 
 ### - e-Narguile versão abafador
 
