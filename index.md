@@ -3,8 +3,11 @@
 
 ![e-Narguile abafador](/images/NARGAS.png)
 
+e-Narguile versão abafador
+
 ![e-Narguile bowl](/images/NARGAS ROSH.png)
 
+e-Narguile versão bowl
 
 
 You can use the [editor on GitHub](https://github.com/L-Bego/e-narguile.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
