@@ -1,7 +1,7 @@
 # e-Hookah
 ### Saia da era do carvão
 
-![Image](/images/NARGAS.jpg)
+![Image](/images/NARGAS.png)
 
 
 
