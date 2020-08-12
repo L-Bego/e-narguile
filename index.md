@@ -5,7 +5,7 @@
 
 e-Narguile versão abafador
 
-![e-Narguile bowl](/images/NARGAS ROSH.png)
+![e-Narguile bowl](/images/NARGASROSH.png)
 
 e-Narguile versão bowl
 
