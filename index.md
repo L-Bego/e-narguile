@@ -1,5 +1,4 @@
-# e-Narguile | e-Hookah
-### _Narguilé eletrônico_
+# O quê é o _e-Narguile | e-Hookah_
 
 O e-Narguile / e-Hookah é um projeto de financiamento coletivo para o desenvolvimento e pesquisa de Narguilés eletroeletrônicos e acessórios para Narguilés que sejam eletroeletrônicos.
 
