@@ -18,6 +18,8 @@ _(DADOS SOBRE O SETOR DE TABACARIA E NARGUILÉS)_
 
 ## DESIGN
 
+No momento foram criados três conceitos para a aplicação do e-Narguile, sendo dois deles acessórios para uso genérico em qualquer modelo de narguilé e um deles um conjunto de narguilé completo em si.
+
 ### - e-Narguile versão abafador
 
 ![e-Narguile abafador](/images/NARGAS.png)
