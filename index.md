@@ -1,13 +1,52 @@
 # e-Hookah
 ### Saia da era do carvão
 
+O e-Narguile é um projeto de financiamento coletivo para o desenvolvimento e pesquisa de Narguilés eletroeletrônicos e acessórios para Narguilés que sejam eletroeletrônicos.
+
+### O conceito
+
+O Narguilé (em inglês: _Hookah_ ou _Shisha_) é basicamente um tipo de cachimbo de água
+
+### - e-Narguile versão abafador
+
 ![e-Narguile abafador](/images/NARGAS.png)
 
-e-Narguile versão abafador
+### - e-Narguile versão bowl
 
 ![e-Narguile bowl](/images/NARGASROSH.png)
 
-e-Narguile versão bowl
+### - e-Narguile versão hookah
+
+## (Aqui vou colocar outro conceito que ainda não desenhei, mas é basicamente o mesmo só que integrado em um narguile inteiro, ou seja, um vaso e um rosh elétrico integrado na steam)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 You can use the [editor on GitHub](https://github.com/L-Bego/e-narguile.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
