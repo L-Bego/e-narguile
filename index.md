@@ -17,7 +17,7 @@ Principais vantagens:
 - Melhor rendimento e comodidade
 - Maior controle sobre a distribuição do calor
 - Tempo de aquecimento reduzido
-- Menor emissão de vapores tóxicos de monóxido de carbono e dióxido de carbono (CO/CO²)
+- Menor emissão de vapores tóxicos (CO/CO²)
 - Aprimora o sabor e fumaça do tabaco (será?)
 - Dispensa o uso de carvão e alumínio
 
