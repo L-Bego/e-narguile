@@ -8,7 +8,15 @@ O e-Narguile / e-Hookah é um projeto de financiamento coletivo para o desenvolv
 
 ![e-narguile renderização](/images/NARGASWIDE.png)
 
-O Narguilé (em inglês: _Hookah_ ou _Shisha_) é basicamente um tipo de cachimbo de água utilizado para fumar tabacos aromatizados.
+O Narguilé (em inglês: _Hookah_ ou _Shisha_) é basicamente um tipo de cachimbo de água utilizado para fumar tabacos aromatizados e outros tipos de substâncias.
+
+_(DESCRIÇÃO DE COMO FUNCIONA TRADICIONALMENTE UM NARGUILE E DO MÉTODO NOVO PROPOSTO)_
+
+## O MERCADO
+
+_(DADOS SOBRE O SETOR DE TABACARIA E NARGUILÉS)_
+
+## DESIGN
 
 ### - e-Narguile versão abafador
 
