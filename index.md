@@ -40,3 +40,8 @@ No momento foram criados três conceitos para a aplicação do e-Narguile, sendo
 ### - e-Narguile versão hookah
 
 ![e-Narguile hookah](/images/conceitoenarguile.png)
+
+
+## DOCUMENTAÇÕES
+
+[Cálculo de equivalência energética](/docs/calculo_equival_energ.pdf)
